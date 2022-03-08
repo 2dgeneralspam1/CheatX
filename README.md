@@ -8,6 +8,7 @@ Featuring over 690 lines of code and the following optimized features;
 - Universal Hitbox expander
 - LocalPlayer modifiers
 - Visuals [ESP, Custom Crosshair and Fulbright]
+- 100% RLua
 
 CheatX is something that should be in every script library. 
 
