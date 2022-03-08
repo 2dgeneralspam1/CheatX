@@ -1,1 +1,3 @@
+-- More coming soon...
 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2dgeneralspam1/CheatX/main/versions/universal.lua'))()
