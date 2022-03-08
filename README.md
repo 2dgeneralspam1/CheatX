@@ -20,4 +20,4 @@ end
 loadstring(game:HttpGet('https://raw.githubusercontent.com/2dgeneralspam1/CheatX/main/loader.lua'))()
 ```
 
-Discord: dsc.gg/garfieldwarez
+Discord: [dsc.gg/garfieldwarez](url)
