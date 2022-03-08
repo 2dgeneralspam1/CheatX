@@ -1,3 +1,5 @@
+-- COPY AND PASTE THE FOLLOWING CODE INTO YOUR EXEUCTER!!!!!
+
 if syn then else
 loadstring(game:HttpGet('https://raw.githubusercontent.com/2dgeneralspam1/lua-releases/main/iris-compat.lua'))()
 end
